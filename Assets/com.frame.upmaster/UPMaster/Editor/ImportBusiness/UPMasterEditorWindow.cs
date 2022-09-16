@@ -15,7 +15,7 @@ namespace JackFrame.UPMaster.Subscription {
 
         UPMManifestModifier modifier;
 
-        [MenuItem(nameof(JackFrame) + "/UPMaster/DependenciesManager")]
+        [MenuItem(nameof(JackFrame) + "/UPMaster/SubscribeManager")]
         public static void OpenWindow() {
             var window = EditorWindow.GetWindow<UPMasterEditorWindow>();
             window.titleContent.text = "UPMaster 依赖管理";
