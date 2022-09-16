@@ -15,4 +15,4 @@ MonoBehaviour:
   dependancyModel:
     packageName: com.frame.upmaster
     gitUrl: ssh://git@github.com:chenwansal/UPMaster.git
-    branchOrTag: develop
+    branchOrTag: main
